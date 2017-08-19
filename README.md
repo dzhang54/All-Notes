@@ -29,7 +29,7 @@ ___
 ## Junior Year
 ___
 #### First Semester
-* ECE 310
+* [ECE 310](https://github.com/dzhang54/School-Notes/tree/master/Junior%20Year/ECE%20310)
 * ECE 313
 * ECE 314
 * ECE 422
