@@ -30,10 +30,10 @@ ___
 ___
 #### First Semester
 * [ECE 310](https://github.com/dzhang54/School-Notes/tree/master/Junior%20Year/ECE%20310)
-* [ECE 313](https://github.com/dzhang54/School-Notes/tree/master/ECE%20313)
-* [ECE 314](https://github.com/dzhang54/School-Notes/tree/master/ECE%20313)
-* [ECE 422](https://github.com/dzhang54/School-Notes/tree/master/ECE%20422)
-* [PHYS 214](https://github.com/dzhang54/School-Notes/tree/master/PHYS%20214)
+* [ECE 313](https://github.com/dzhang54/School-Notes/tree/master/Junior%20Year/ECE%20313)
+* [ECE 314](https://github.com/dzhang54/School-Notes/tree/master/Junior%20Year/ECE%20313)
+* [ECE 422](https://github.com/dzhang54/School-Notes/tree/master/Junior%20Year/ECE%20422)
+* [PHYS 214](https://github.com/dzhang54/School-Notes/tree/master/Junior%20Year/PHYS%20214)
 #### Second Semester
 
 ## Senior Year
