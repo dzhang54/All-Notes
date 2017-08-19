@@ -4,20 +4,20 @@ This repository will contain all of the notes I have for my classes. Programming
 
 ## Freshman Year
 ___
-### First Semester
-### Second Semester
+#### First Semester
+#### Second Semester
 
 ## Sophomore Year
 ___
-### First Semester
-### Second Semester
+#### First Semester
+#### Second Semester
 
 ## Junior Year
 ___
-### First Semester
-### Second Semester
+#### First Semester
+#### Second Semester
 
 ## Senior Year
 ___
-### First Semester
-### Second Semester
+#### First Semester
+#### Second Semester
