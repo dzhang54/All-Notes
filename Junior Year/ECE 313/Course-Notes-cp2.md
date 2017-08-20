@@ -8,23 +8,37 @@
   * [2.7 The Poisson distribution-a limit of binomial distributions](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#27)
   * [2.8 Maximum likelihood parameter estimation](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#28)
   * [2.9 Markov and Chebychev inequalities and confidence intervals](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#29)
-  * [2.10 The law of total probability, and Bayes formula]https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#210)
+  * [2.10 The law of total probability, and Bayes formula](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#210)
   * [2.11 Binary hypothesis testing with discrete-type observations](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#211)
   * [2.12 Reliability](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#212)
   * [2.13 Short Answer Questions](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#213)
   * [2.14 Problems](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#214)
   
 ## 2.1
+___
 ## 2.2
+___
 ## 2.3
+___
 ## 2.4
+___
 ## 2.5
+___
 ## 2.6
+___
 ## 2.7
+___
 ## 2.8
+___
 ## 2.9
+___
 ## 2.10
+___
 ## 2.11
+___
 ## 2.12
+___
 ## 2.13
+___
 ## 2.14
+___
