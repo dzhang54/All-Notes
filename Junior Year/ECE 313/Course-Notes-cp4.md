@@ -14,16 +14,28 @@
   * [4.13 Problems]
   
 ## 4.1
-[^^](
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.2
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.3
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.4
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.5
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.6
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.7
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.8
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.9
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.10
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.11
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.12
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
 ## 4.13
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp4.md#chapter-4)
