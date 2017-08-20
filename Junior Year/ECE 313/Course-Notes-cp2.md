@@ -14,7 +14,7 @@
   * [2.13 Short Answer Questions]
   * [2.14 Problems]
   
-## 2.11 - Random variables and probability mass functions
+## 2.1
 ## 2.2
 ## 2.3
 ## 2.4
