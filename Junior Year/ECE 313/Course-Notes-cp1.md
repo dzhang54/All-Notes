@@ -9,22 +9,22 @@
   
 ### 1.1
 ___
-[top](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
+[^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
 ### 1.2
 ___
-[top](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
+[^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
 ### 1.3
 ___
-[top](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
+[^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
 ### 1.4
 ___
-[top](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
+[^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
 ### 1.5
 ___
-[top](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
+[^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
 ### 1.6
 ___
-[top](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
+[^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
 ### 1.7
 ___
-[top](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
+[^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
