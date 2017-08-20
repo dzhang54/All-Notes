@@ -15,30 +15,30 @@
   * [2.14 Problems](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#214)
   
 ## 2.1
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.2
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.3
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.4
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.5
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.6
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.7
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.8
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.9
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.10
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.11
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.12
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.13
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 2.14
-[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2)
+[^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
