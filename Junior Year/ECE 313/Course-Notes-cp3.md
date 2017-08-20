@@ -1,4 +1,4 @@
-
+# Chapter 3: Continuous-type random variables
 ## 3.1
 [^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp2.md#chapter-2-discrete-type-random-variables)
 ## 3.2
