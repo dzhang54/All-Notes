@@ -8,7 +8,16 @@
   * [1.7 - List of Data Structures](https://github.com/dzhang54/All-Notes/blob/master/Self%20Learning/Data%20Structures/Open-Data-Structures-cp1.md#17---list-of-data-structures)
   * [1.8 - Discussion and Exercises](https://github.com/dzhang54/All-Notes/blob/master/Self%20Learning/Data%20Structures/Open-Data-Structures-cp1.md#18---discussion-and-exercises)
   
-## 1.1 - The Need for Efficiency
+## 1.1 - The Need for Efficiency  
+Data structure are very important and we interact with them constantly:  
+ > Open a file: locating and opening file  
+ > Looking up a contact on your phone: access contacts quickly and accurately  
+     
+**Efficiency**
+  > Number of operations: Application with 10^6 items, so if we expect to do 1 million searches, this leads to 10^12 inspections  
+  > Processor speeds: It will take 10^12/10^9 = 1000 seconds to run the application  
+  > Bigger data sets: Google has 8.5 billion web pages, they receive 4500 queries per second, so they need 38,250 servers just to keep up  
+  > The solution: efficient way to store the data 
 ## 1.2 - Interfaces
 ## 1.3 - Mathematical Background
 ## 1.4 - The Model of Computation
