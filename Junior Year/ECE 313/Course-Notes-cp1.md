@@ -7,10 +7,10 @@
   * [1.6 Short Answer Questions](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#16)
   * [1.7 Problems](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#17)
   
-### 1.1
+## 1.1
 ___
 [^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
-### 1.2
+## 1.2
 ___
 [^^](https://github.com/dzhang54/School-Notes/blob/master/Junior%20Year/ECE%20313/Course-Notes-cp1.md#chapter-1)
 ### 1.3
