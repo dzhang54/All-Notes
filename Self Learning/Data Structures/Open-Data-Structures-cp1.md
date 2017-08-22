@@ -19,6 +19,7 @@ Data structure are very important and we interact with them constantly:
   > Bigger data sets: Google has 8.5 billion web pages, they receive 4500 queries per second, so they need 38,250 servers just to keep up  
   > The solution: efficient way to store the data 
 ## 1.2 - Interfaces
+
 ## 1.3 - Mathematical Background
 ## 1.4 - The Model of Computation
 ## 1.5 - Correctness, Time Complexity, and Space Complexity
