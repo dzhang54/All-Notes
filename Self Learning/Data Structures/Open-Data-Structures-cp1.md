@@ -17,7 +17,7 @@ Data structure are very important and we interact with them constantly:
   > Number of operations: Application with 10^6 items, so if we expect to do 1 million searches, this leads to 10^12 inspections  
   > Processor speeds: It will take 10^12/10^9 = 1000 seconds to run the application  
   > Bigger data sets: Google has 8.5 billion web pages, they receive 4500 queries per second, so they need 38,250 servers just to keep up  
-  > The solution: efficient way to store the data  
+  > The solution: efficient way to store the data    
   [[Back to the top]](https://github.com/dzhang54/All-Notes/blob/master/Self%20Learning/Data%20Structures/Open-Data-Structures-cp1.md#chapter-1-introduction)
 ## 1.2 - Interfaces
 [[Back to the top]](https://github.com/dzhang54/All-Notes/blob/master/Self%20Learning/Data%20Structures/Open-Data-Structures-cp1.md#chapter-1-introduction)
