@@ -23,10 +23,10 @@ Data structure are very important and we interact with them constantly:
 ## 1.2 - Interfaces
 Interface(Abstract data type):
  > describes what a data structure does
- asdfa
+ sometimes provides a list of supported operations along with specifications about each operation
 Implementation:
  > implementation describes how the data structure does it
- adfad
+
 [[Back to the top]](https://github.com/dzhang54/All-Notes/blob/master/Self%20Learning/Data%20Structures/Open-Data-Structures-cp1.md#chapter-1-introduction)
 ## 1.3 - Mathematical Background
 [[Back to the top]](https://github.com/dzhang54/All-Notes/blob/master/Self%20Learning/Data%20Structures/Open-Data-Structures-cp1.md#chapter-1-introduction)
